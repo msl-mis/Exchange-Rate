@@ -6,3 +6,11 @@ D:\開發區\Exchange Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.Suggeste
 D:\開發區\Exchange Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.CoreCompileInputs.cache
 D:\開發區\Exchange Rate\Exchange Rate\obj\Debug\Exchange Rate.exe
 D:\開發區\Exchange Rate\Exchange Rate\obj\Debug\Exchange Rate.pdb
+D:\Source Code\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.exe.config
+D:\Source Code\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.exe
+D:\Source Code\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.pdb
+D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.AssemblyReference.cache
+D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.SuggestedBindingRedirects.cache
+D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.CoreCompileInputs.cache
+D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.exe
+D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.pdb
