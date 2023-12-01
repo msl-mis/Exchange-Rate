@@ -119,11 +119,11 @@ namespace Exchange_Rate
             MailMessage MyMail = new MailMessage();
             MyMail.From = new MailAddress("sqluser@msl.com.tw");
             //MyMail.To.Add("收件者Email");加入收件者Email
-            MyMail.To.Add("thomas@msl.com.tw"); //加入收件者Email
+            //MyMail.To.Add("thomas@msl.com.tw"); //加入收件者Email
             MyMail.To.Add("peggy@msl.com.tw"); //加入收件者Email
             //MyMail.CC.Add("副本的Mail"); //加入副本的Mail
             //MyMail.Bcc.Add("密件副本的收件者Mail"); //加入密件副本的Mail          
-            MyMail.Subject = "材料採購價設定資訊";
+            MyMail.Subject = "匯率自動輸入";
             MyMail.Body = strResult + " 結束時間:" + DateTime.Now.ToString(); //設定信件內容
             MyMail.IsBodyHtml = false; //是否使用html格式
             //Attachment attdata = new Attachment(@"D:\" + sDate + @"生產日報.xlsx", MediaTypeNames.Application.Octet);
