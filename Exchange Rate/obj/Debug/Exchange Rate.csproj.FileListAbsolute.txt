@@ -14,3 +14,11 @@ D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.Sugges
 D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.CoreCompileInputs.cache
 D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.exe
 D:\Source Code\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.pdb
+D:\_SoureCode\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.exe.config
+D:\_SoureCode\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.exe
+D:\_SoureCode\Exchange-Rate\Exchange Rate\bin\Debug\Exchange Rate.pdb
+D:\_SoureCode\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.AssemblyReference.cache
+D:\_SoureCode\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.SuggestedBindingRedirects.cache
+D:\_SoureCode\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.csproj.CoreCompileInputs.cache
+D:\_SoureCode\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.exe
+D:\_SoureCode\Exchange-Rate\Exchange Rate\obj\Debug\Exchange Rate.pdb
