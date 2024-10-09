@@ -109,7 +109,7 @@ namespace Exchange_Rate
             //cmd.ResetCommandTimeout();
             //CommandTimeout 重設為30秒
             //怕下列指令執行較長,將他延長設為1200秒
-            cmd.CommandTimeout = 1200;
+            cmd.CommandTimeout = 800000;
             cmd.ExecuteNonQuery();
             conn.Close(); //關閉資料庫連接
         }
